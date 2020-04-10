@@ -1,0 +1,11 @@
+C:\Users\Acer\Desktop\ТВиМС\Lab_work_random_variables_3.0\Lab_work_random_variables_3.0\bin\Debug\Lab_work_random_variables_3.0.exe.config
+C:\Users\Acer\Desktop\ТВиМС\Lab_work_random_variables_3.0\Lab_work_random_variables_3.0\bin\Debug\Lab_work_random_variables_3.0.exe
+C:\Users\Acer\Desktop\ТВиМС\Lab_work_random_variables_3.0\Lab_work_random_variables_3.0\bin\Debug\Lab_work_random_variables_3.0.pdb
+C:\Users\Acer\Desktop\ТВиМС\Lab_work_random_variables_3.0\Lab_work_random_variables_3.0\bin\Debug\ZedGraph.dll
+C:\Users\Acer\Desktop\ТВиМС\Lab_work_random_variables_3.0\Lab_work_random_variables_3.0\obj\Debug\Lab_work_random_variables_3.0.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\ТВиМС\Lab_work_random_variables_3.0\Lab_work_random_variables_3.0\obj\Debug\Lab_work_random_variables_3._0.Form1.resources
+C:\Users\Acer\Desktop\ТВиМС\Lab_work_random_variables_3.0\Lab_work_random_variables_3.0\obj\Debug\Lab_work_random_variables_3._0.Properties.Resources.resources
+C:\Users\Acer\Desktop\ТВиМС\Lab_work_random_variables_3.0\Lab_work_random_variables_3.0\obj\Debug\Lab_work_random_variables_3.0.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\ТВиМС\Lab_work_random_variables_3.0\Lab_work_random_variables_3.0\obj\Debug\Lab_work_random_variables_3.0.csproj.CopyComplete
+C:\Users\Acer\Desktop\ТВиМС\Lab_work_random_variables_3.0\Lab_work_random_variables_3.0\obj\Debug\Lab_work_random_variables_3.0.exe
+C:\Users\Acer\Desktop\ТВиМС\Lab_work_random_variables_3.0\Lab_work_random_variables_3.0\obj\Debug\Lab_work_random_variables_3.0.pdb
